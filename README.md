@@ -16,7 +16,7 @@ Python is good for text processing. It has built in tools to tokenize text as we
 I’ve learned how to read input files in Python as well as pickling and unpickling a dictionary. I’ve also learned how to use Python’s regex library to find patterns in strings.
 
 ### Link
-[Link to Homework 1]()
+[Link to Homework 1](https://github.com/posadari/4395_Portfolio/blob/main/4395_Assignment1/main.py)
 
 ## Portfolio Setup
 [Link to Overview of NLP document](https://github.com/posadari/4395_Portfolio/blob/main/Overview%20of%20NLP.pdf)
