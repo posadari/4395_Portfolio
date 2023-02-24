@@ -1,6 +1,10 @@
 # 4395_Portfolio
 NLP Projects and Assignments
 
+## Homework 3
+### Summary
+Use NLTK's WordNet and SentiWordNet package to discover synsets of nouns and verbs and their relations with other words.
+
 ## Homework 2
 ### Summary
 Use NLTK package to do preprocessing and POS tagging on a text file then create a guessing game.
