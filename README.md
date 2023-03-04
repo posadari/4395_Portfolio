@@ -1,6 +1,10 @@
 # 4395_Portfolio
 NLP Projects and Assignments
 
+## Homework 4
+### Summary
+Collaborted with Erik Rodriguez to get all unigrams and bigrams of three language files then calulate the probabilities of each language from every line in the test file.
+
 ## Homework 3
 ### Summary
 Use NLTK's WordNet and SentiWordNet package to discover synsets of nouns and verbs and their relations with other words.
