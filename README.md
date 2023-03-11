@@ -3,11 +3,11 @@ NLP Projects and Assignments
 
 ## Homework 5
 ### Summary
-Collaborted with Erik Rodriguez to scrape text and links from a URL and find the most important terms used across all the links with TF-IDF.
+Collaborted with Erik Rodriguez (Tarzerk) to scrape text and links from a URL and find the most important terms used across all the links with TF-IDF.
 
 ## Homework 4
 ### Summary
-Collaborted with Erik Rodriguez to get all unigrams and bigrams of three language files then calulate the probabilities of each language from every line in the test file.
+Collaborted with Erik Rodriguez (Tarzerk) to get all unigrams and bigrams of three language files then calulate the probabilities of each language from every line in the test file.
 
 ## Homework 3
 ### Summary
