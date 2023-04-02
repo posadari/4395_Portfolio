@@ -1,6 +1,10 @@
 # 4395_Portfolio
 NLP Projects and Assignments
 
+## Homework 6
+### Summary
+Used coffee maker reviews dataset and created Naive Bayes, Neural Network, and Logistic Regression models then compared each metric score.
+
 ## Homework 5
 ### Summary
 Collaborted with Erik Rodriguez (Tarzerk) to scrape text and links from a URL and find the most important terms used across all the links with TF-IDF.
