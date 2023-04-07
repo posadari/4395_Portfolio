@@ -1,6 +1,10 @@
 # 4395_Portfolio
 NLP Projects and Assignments
 
+## Homework 7
+### Summary
+Collaborted with Erik Rodriguez (Tarzerk) to write about our chosen ACL paper that goes over identifying insiders and outsiders from social media posts.
+
 ## Homework 6
 ### Summary
 Used coffee maker reviews dataset and created Naive Bayes, Neural Network, and Logistic Regression models then compared each metric score.
